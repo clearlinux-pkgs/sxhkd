@@ -4,7 +4,7 @@
 #
 Name     : sxhkd
 Version  : 0.5.9
-Release  : 1
+Release  : 2
 URL      : https://github.com/baskerville/sxhkd/archive/0.5.9.tar.gz
 Source0  : https://github.com/baskerville/sxhkd/archive/0.5.9.tar.gz
 Summary  : No detailed summary available
